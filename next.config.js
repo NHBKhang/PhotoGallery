@@ -9,5 +9,8 @@ module.exports = {
         pathname: "/my-account/**",
       },
     ],
+    domains: [
+      "res.cloudinary.com"
+    ]
   },
 };
